@@ -1,0 +1,13 @@
+c:\users\erik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CatacombsUI.exe.config
+c:\users\erik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CatacombsUI.exe
+c:\users\erik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CatacombsUI.pdb
+c:\users\erik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\GameEngine.dll
+c:\users\erik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\GameEngine.pdb
+c:\users\erik\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Catacombs.csprojAssemblyReference.cache
+c:\users\erik\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Catacombs.Properties.Resources.resources
+c:\users\erik\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Catacombs.csproj.GenerateResource.cache
+c:\users\erik\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Catacombs.csproj.CoreCompileInputs.cache
+c:\users\erik\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Catacombs.csproj.CopyComplete
+c:\users\erik\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CatacombsUI.exe
+c:\users\erik\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CatacombsUI.pdb
+c:\users\erik\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Catacombs.resources

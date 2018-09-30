@@ -1,0 +1,6 @@
+c:\users\erik\source\repos\WindowsFormsApp1\GameEngine\bin\Debug\GameEngine.dll
+c:\users\erik\source\repos\WindowsFormsApp1\GameEngine\bin\Debug\GameEngine.pdb
+c:\users\erik\source\repos\WindowsFormsApp1\GameEngine\obj\Debug\GameEngine.csprojAssemblyReference.cache
+c:\users\erik\source\repos\WindowsFormsApp1\GameEngine\obj\Debug\GameEngine.csproj.CoreCompileInputs.cache
+c:\users\erik\source\repos\WindowsFormsApp1\GameEngine\obj\Debug\GameEngine.dll
+c:\users\erik\source\repos\WindowsFormsApp1\GameEngine\obj\Debug\GameEngine.pdb
